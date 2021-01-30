@@ -2,6 +2,7 @@
 A Personal project for playing chess with friends and analysing a few games with some Engine.
 
 ## Things from Medium Article
+## initial setup
 - yarn create react-app chess-project --template typescript
 - cd chess-project/
 - yarn add chessboardjsx
@@ -55,5 +56,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-=======
->>>>>>> 6401fd669695dcabf64575b211ddd72f6749be55
